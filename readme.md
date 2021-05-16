@@ -1,2 +1,2 @@
-![](./snip.png)
+![](./screenshot.png)
 
